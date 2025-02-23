@@ -1,0 +1,12 @@
+const root = [
+  "Nothing for Zero",
+  "🏆 Leadership & independence. A pioneer with strong determination and confidence",
+  "⭐️ Harmony & partnership. Represents diplomacy, balance, and working well with others.",
+  "🚀 Creativity & self-expression. A joyful communicator full of enthusiasm and imagination",
+  "🎯 Stability & discipline. Represents a strong foundation, hard work, and persistence.",
+  "😇 Freedom & adventure. A dynamic personality that loves change, travel, and new experiences.",
+  "🤝 Responsibility & nurturing. A caring soul dedicated to family, love, and emotional support.",
+  "🎖️ Wisdom & spirituality. A deep thinker drawn to philosophy, introspection, and knowledge.",
+  "💪 Power & success. Represents ambition, material abundance, and strong leadership abilities.",
+  "⚡️ Compassion & humanitarianism. A selfless individual focused on helping others and universal love."
+];
